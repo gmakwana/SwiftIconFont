@@ -1,4 +1,4 @@
 target 'Example' do
 	use_frameworks!
-	pod 'SwiftIconFont', :path => '../'
+	pod 'SwiftIconFont', :git => 'https://github.com/gmakwana/SwiftIconFont.git'
 end

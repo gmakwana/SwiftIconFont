@@ -794,4 +794,5 @@ public let fontAwesomeIconArr: [String: String] = [
     "youtube":"\u{f167}",
     "youtubeplay":"\u{f16a}",
     "youtubesquare":"\u{f166}",
+    "handholdingheart":"\u{f4be}",
 ]
